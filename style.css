@@ -212,6 +212,7 @@ input[type="submit"] {
 #page6 {
 background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(255, 249, 218) 400px, rgb(255, 255, 255) 800px);
   display: flex;
+  padding-bottom: 3vw;
 }
 
 
