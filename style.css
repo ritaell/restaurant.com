@@ -175,7 +175,7 @@ background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(255, 249, 21
 
          
 form {
-  max-width: 45vw;
+  max-width: 50vw;
   margin: 0 auto;
 }
 
@@ -209,6 +209,9 @@ input[type="submit"] {
 
 }
 
+#page6 {
+background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(255, 249, 218) 400px, rgb(255, 255, 255) 800px);
+}
 
        
 
